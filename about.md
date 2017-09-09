@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I wanted a simple blog. Thanks to github pages, here it is!
-Welcome to my home.
-Linux, DevOps, Open Source.
+I wanted a simple blog. Thanks to github pages, here it is!  
+Welcome to my home.  
+Linux, DevOps, Open Source.  
 Cars? Yes, I love cars. You may encounter some not-so-linux-related posts here.
 
 I use Minima:
