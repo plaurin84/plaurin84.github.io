@@ -4,10 +4,10 @@ title:  "How to install PNDA on AWS"
 date:   2017-09-21 22:09:00 -0400
 categories: blog
 ---
-# What is PNDA?
+### What is PNDA?
 PNDA is a Linux Foundation Collaborative Project. It brings multiple open source technologies together, in a manner of providing a scalable and open big data analytics Platform. For more details, have a look at the project's website [here](http://www.pnda.io).
 
-# Installation procedure
+### Installation procedure
 ## Overview
 This blog post is focused on AWS deployment. However, this overview explains the different ways PNDA can be installed. Keep in mind that different types of hosts have slightly different installation procedures.
 
@@ -42,14 +42,14 @@ PNDA is also still in it's infancy, and will hopefully provide other ways to ins
 ## Installation steps
 I will do my best to keep the procedures copy/paste friendly. Keep in mind that this is for PNDA version 3.5, and further releases may provide different steps.
 
-### 1. Choose and prepare a host
+# 1. Choose and prepare a host
 TODO
-### 2. Create mirror components
+# 2. Create mirror components
 TODO
-### 3. Build components
+# 3. Build components
 TODO
-### 4. Stage components through the mirror
+# 4. Stage components through the mirror
 TODO
-### 5. Configure the cluster creation process
+# 5. Configure the cluster creation process
 TODO
-### 6. Create the PNDA cluster
+# 6. Create the PNDA cluster
