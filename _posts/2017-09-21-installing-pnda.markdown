@@ -16,7 +16,7 @@ PNDA can be installed on 4 types of hosts:
 * Bare metal using OpenStack tools ([Ironic](https://wiki.openstack.org/wiki/Ironic) and [Heat](https://wiki.openstack.org/wiki/Heat))
 * Virtual Machine using [red-pnda](https://github.com/pndaproject/red-pnda)
 
-The Virtual Machine installation is not suited for production use, and only provides a minimal set of components for testing and development.
+The Virtual Machine installation is not suited for production use and only provides a minimal set of components for testing and development.
 
 For AWS, OpenStack and Bare metal, PNDA can be used for production.
 
