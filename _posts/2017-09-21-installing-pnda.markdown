@@ -18,7 +18,7 @@ PNDA can be installed on 4 types of hosts:
 
 The Virtual Machine installation is not suited for production use and only provides a minimal set of components for testing and development.
 
-For AWS, OpenStack and Bare metal, PNDA can be used for production.
+For AWS, OpenStack and bare metal, PNDA can be used for production.
 
 While PNDA runs a cluster of applications, one can choose not to deploy all of them. You can adapt the application set to your needs. PNDA does provide two pre-configured 'flavors':
 * Pico
