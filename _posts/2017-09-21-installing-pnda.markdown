@@ -49,7 +49,7 @@ My personal view of PNDA's installation is an analogy to the [Gentoo philosophy]
 > With Great Power Comes Great Responsibility  
 > &nbsp;&nbsp;\- sudo
 
-While it's always good practice to type your own commands, I will do my best to keep the procedures copy/paste friendly.
+While it's always good practice to type your own commands, I will do my best to keep the procedures copy/paste friendly. As a reminder, the steps below are in no manner intended for production deployments.
 
 ###### 1. Choose and prepare a host
 TODO
