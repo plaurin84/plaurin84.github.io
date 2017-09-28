@@ -18,11 +18,11 @@ PNDA can be installed on 4 types of hosts:
 * Bare metal using OpenStack tools ([Ironic](https://wiki.openstack.org/wiki/Ironic) and [Heat](https://wiki.openstack.org/wiki/Heat))
 * Virtual Machine using [red-pnda](https://github.com/pndaproject/red-pnda)
 
-The Virtual Machine installation is not suited for production use and only provides a minimal set of components for testing and development.
+The Virtual Machine installation is not suited for production use and only provides a minimal set of components for development and testing.
 
 For AWS, OpenStack and bare metal, PNDA can be used for production.
 
-While PNDA runs a cluster of applications, one can choose not to deploy all of them. You can adapt the application set to your needs. PNDA does provide two pre-configured 'flavors':
+While PNDA is a cluster of applications, one can choose not to deploy all of them. You can adapt the application set to your needs. PNDA does provide two pre-configured 'flavors':
 * Pico
   \- Intended for development and learning purposes. It's a fully fledged PNDA software but does not run core services in high-availability mode and provides limited storage.
 
@@ -31,11 +31,11 @@ While PNDA runs a cluster of applications, one can choose not to deploy all of t
 
 For production deployments and specific needs, flavors can be customised.
 
-PNDA's installation requires 6 main steps:
-1. Choose and prepare a host
+PNDA's installation can be done following 6 main steps:
+1. Choose and prepare a target host
 2. Create mirror components
 3. Build components
-4. Stage components through the mirror
+4. Stage built components through the mirror
 5. Configure the cluster creation process
 6. Deploy the PNDA cluster
 
