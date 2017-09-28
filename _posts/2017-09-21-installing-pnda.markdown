@@ -39,7 +39,7 @@ PNDA's installation requires 6 main steps:
 
 You might wonder... Why so many steps?
 
-Well, as many businesses and real world deployments, having internet on a production system is not always an option. Also, online resources are not always dependable. The custom mirror can provides a secure and private way of deploying the application, if used properly.
+Well, as many businesses and real world deployments, having internet access on a production system is not always an option. Also, online resources are not always dependable. The custom mirror can provides a secure and private way of deploying the application, if used properly.
 
 My personal view of PNDA's installation is an analogy to the [Gentoo philosophy](https://www.gentoo.org/get-started/philosophy/). It's about using a tool as we see fit, providing maximum flexibility for someone's needs. The mirror and configuration system provides choices to the administrator that installs PNDA.
 
