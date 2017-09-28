@@ -4,11 +4,13 @@ title:  "How to install PNDA on AWS"
 date:   2017-09-21 22:09:00 -0400
 categories: blog
 ---
+This post is focused on the deployment of PNDA v3.5 on AWS. My goal is to provide a quick overview of the application, as well as a simplified installation process for reference and understanding.
+
 # What is PNDA?
 PNDA is a Linux Foundation Collaborative Project. It brings multiple open source technologies together, in a manner of providing a scalable big data analytics Platform. For more details, have a look at the project's website [here](http://www.pnda.io).
 
 # Overview
-While this page is focused on the specifics of deploying PNDA v3.5 on AWS, this overview showcases the different types of host available for deployment. Keep in mind that different hosts have slightly different installation procedures. For production use, please follow the [official guide](http://pnda.io/guide).
+Obviously, AWS is not the only available host target. This overview showcases the different types of host available for deployment. Keep in mind that different hosts have slightly different installation procedures. For production use, please follow the [official guide](http://pnda.io/guide).
 
 PNDA can be installed on 4 types of hosts:
 * Amazon AWS using [CloudFormation](https://aws.amazon.com/cloudformation/)
