@@ -45,8 +45,8 @@ Well, as many businesses and real world deployments, having internet on a produc
 My personal view of PNDA's installation is an analogy to the [Gentoo philosophy](https://www.gentoo.org/get-started/philosophy/). It's about using a tool as we see fit, providing maximum flexibility for someone's needs. The mirror and configuration system provides choices to the administrator that installs PNDA.
 
 ## Installation steps
-With Great Power Comes Great Responsibility  
-&nbsp;&nbsp;\- sudo
+> With Great Power Comes Great Responsibility  
+> &nbsp;&nbsp;\- sudo
 
 I will do my best to keep the procedures copy/paste friendly. Keep in mind that this is for PNDA version 3.5, and further releases may provide different steps.
 
