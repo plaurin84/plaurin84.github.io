@@ -8,7 +8,7 @@ categories: blog
 PNDA is a Linux Foundation Collaborative Project. It brings multiple open source technologies together, in a manner of providing a scalable big data analytics Platform. For more details, have a look at the project's website [here](http://www.pnda.io).
 
 # Overview
-While this page is focused on the specifics of an AWS deployment for PNDA release 3.5, this overview showcases the available deployment host platforms. Keep in mind that different hosts have slightly different installation procedures.
+While this page is focused on the specifics of deploying PNDA v3.5 on AWS, this overview showcases the different types of host available for deployment. Keep in mind that different hosts have slightly different installation procedures. For production use, please follow the [official guide](http://pnda.io/guide).
 
 PNDA can be installed on 4 types of hosts:
 * Amazon AWS using [CloudFormation](https://aws.amazon.com/cloudformation/)
