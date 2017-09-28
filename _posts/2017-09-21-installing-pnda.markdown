@@ -4,12 +4,11 @@ title:  "How to install PNDA on AWS"
 date:   2017-09-21 22:09:00 -0400
 categories: blog
 ---
-### What is PNDA?
+# What is PNDA?
 PNDA is a Linux Foundation Collaborative Project. It brings multiple open source technologies together, in a manner of providing a scalable big data analytics Platform. For more details, have a look at the project's website [here](http://www.pnda.io).
 
-### Installation procedure
-## Overview
-While this page is focused on the specifics of an AWS deployment, this overview showcases the available deployment host platforms. Keep in mind that different hosts have slightly different installation procedures.
+# Overview
+While this page is focused on the specifics of an AWS deployment for PNDA release 3.5, this overview showcases the available deployment host platforms. Keep in mind that different hosts have slightly different installation procedures.
 
 PNDA can be installed on 4 types of hosts:
 * Amazon AWS using [CloudFormation](https://aws.amazon.com/cloudformation/)
@@ -44,20 +43,20 @@ Well, as many businesses and real world deployments, having internet on a produc
 
 My personal view of PNDA's installation is an analogy to the [Gentoo philosophy](https://www.gentoo.org/get-started/philosophy/). It's about using a tool as we see fit, providing maximum flexibility for someone's needs. The mirror and configuration system provides choices to the administrator that installs PNDA.
 
-## Installation steps
+# Installation steps
 > With Great Power Comes Great Responsibility  
 > &nbsp;&nbsp;\- sudo
 
-I will do my best to keep the procedures copy/paste friendly. Keep in mind that this is for PNDA version 3.5, and further releases may provide different steps.
+While it's always good practice to type your own commands, I will do my best to keep the procedures copy/paste friendly.
 
-# 1. Choose and prepare a host
+###### 1. Choose and prepare a host
 TODO
-# 2. Create mirror components
+###### 2. Create mirror components
 TODO
-# 3. Build components
+###### 3. Build components
 TODO
-# 4. Stage components through the mirror
+###### 4. Stage components through the mirror
 TODO
-# 5. Configure the cluster creation process
+###### 5. Configure the cluster creation process
 TODO
-# 6. Deploy the PNDA cluster
+###### 6. Deploy the PNDA cluster
